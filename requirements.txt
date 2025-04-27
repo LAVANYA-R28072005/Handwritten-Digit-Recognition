@@ -1,0 +1,22 @@
+🛠️ Requirements (Libraries & Tools):
+
+Libraries:
+1) tensorflow: Building and training the CNN model
+2)keras: Model loading and saving
+3)numpy: Handling arrays and preprocessing images
+4)matplotlib: Visualizing images and predictions
+5)tkinter: Building the GUI application
+6)Pillow (PIL): Drawing and processing user inputs on the canvas
+7)ipywidgets: Adding interactive widgets (slider for checking test images)
+
+
+You also need:
+
+* Python (3.x)
+
+* Jupyter Notebook (for development)
+
+---Note---
+Run the project in jupyter notebook after installing all the required libraries in the project folder using
+- Pip Install <Libary Name>
+- In jupyter notebook, install using : !pip install <Libary name>
