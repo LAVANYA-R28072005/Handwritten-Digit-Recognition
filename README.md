@@ -54,7 +54,29 @@ Layers:
 - Deployable GUI using Tkinter.
 
 ⚡ Quick Summary:
-✅ Data: MNIST handwritten digits
-✅ Model: CNN with 3 Convolutions + Dense layers
-✅ Deployment: Tkinter GUI + Canvas drawing
+* ✅ Data: MNIST handwritten digits
+* ✅ Model: CNN with 3 Convolutions + Dense layers
+* ✅ Deployment: Tkinter GUI + Canvas drawing
+
+- Disadvantage:
+  * Only we can Predict from 0-9.
+  * It can predict Only Single digits.
+     
+-----Note-----
+Install the required libraries and run the project in juypter notebook. to install the required libraries just refer the requirement file and create a virtual env in project folder and start installing using : 
+* pip intall   # using cmd 
+* !pip install  # using jupyter notebook
+
+
+# Output:
+* empty canvas
+  <img width="942" alt="image" src="https://github.com/user-attachments/assets/3e9ae0dd-71f2-4568-a55e-ad28b8a0a92b" />
+
+
+
+
+* Hand written number on canva and predicted output
+  
+  <img width="151" alt="image" src="https://github.com/user-attachments/assets/0e9f7003-ac0e-45c3-9881-20fe4eed4c82" />      <img width="150" alt="image" src="https://github.com/user-attachments/assets/b5568359-0283-4d90-88a7-9e596d4608aa" />      <img width="150" alt="image" src="https://github.com/user-attachments/assets/4084a238-c70a-4cdb-99dd-4fbfe2b78c02" />
+
 
